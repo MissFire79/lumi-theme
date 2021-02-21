@@ -1,0 +1,21 @@
+{
+    "name": "lumi-theme",
+    "displayName": "Lumi Theme",
+    "description": "Bright theme yet easy on the eyes.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lumi Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Lumi Theme-color-theme.json"
+            }
+        ]
+    }
+}

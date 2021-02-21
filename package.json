@@ -2,7 +2,7 @@
     "name": "lumi-theme",
     "displayName": "Lumi Theme",
     "description": "Bright theme yet easy on the eyes.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "MissFire",
     "engines": {
         "vscode": "^1.53.0"

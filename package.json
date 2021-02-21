@@ -3,8 +3,18 @@
     "displayName": "Lumi Theme",
     "description": "Bright theme yet easy on the eyes.",
     "version": "0.0.1",
+    "publisher": "MissFire",
     "engines": {
         "vscode": "^1.53.0"
+    },
+    "author": {
+        "name": "Susanna Hokkanen",
+        "email": "chagrin333@hotmail.com",
+        "url": "https://linkedin.com/missfire"
+    },
+    "repository": {
+        "url": "https://github.com/MissFire79/lumi-theme",
+        "type": "git"
     },
     "categories": [
         "Themes"

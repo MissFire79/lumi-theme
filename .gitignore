@@ -1,6 +1,0 @@
-node_modules
-*.vsix
-.gitattributes
-vsc-extension-quickstart.md
-.vscodeignore
-.gitignore
